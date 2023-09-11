@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+}
+
+.user {
+    font-weight: bold;
+}
+
+li {
+    list-style: none;
+    padding: .5rem;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    max-width: 10rem;
+    margin-bottom: 1rem;
+}
